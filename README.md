@@ -1,4 +1,4 @@
-# AVR64DA28 – Entwicklung mit Arduino & PlatformIO
+# AVR32/64DA28 – Entwicklung mit Arduino & PlatformIO
 
 Ein kompakter Einstieg in die Arbeit mit dem AVR64DA28 Mikrocontroller auf Basis der DxCore. Unterstützung für Arduino IDE und PlatformIO, inklusive serieller UPDI-Programmierung über FTDI.
 
